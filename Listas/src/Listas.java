@@ -56,7 +56,8 @@ public class Listas {
 			if (emp.get(i).getId()== id)
 				return i;
 		}
-		return null;
+		return -1;
 	}
 	
+	// comments
 }
